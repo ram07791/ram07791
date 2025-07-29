@@ -26,7 +26,7 @@
 | *Grocery Store Management* | A web app for managing grocery items, orders, and inventory.     | Django, NoSQL(MongoDB), HTML, Python | Cartzy       |
 | *Python game*     |  A mini rock paper scissor game   | Python           | python-game    |
 | *weather app*     | A simple Python-based weather reporter                 | Python                              | weather_app        |
-|qr generator       | A simple python based qr generator which generates qr code and can store qr| python |      qrgenerator
+|qr generator       | A simple python based qr generator which generates qr code and can store qr| python,Pillow,qr library |      qrgenerator
 
 
 > You can explore all my projects [here](https://github.com/ram07791?tab=repositories)
